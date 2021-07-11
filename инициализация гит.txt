@@ -30,3 +30,5 @@ git remote add origin https://workkbox/probe.git
 
 проверка статуса локальных изменений git status
 
+Vitalik, 2021 iyul
+
